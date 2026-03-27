@@ -23,6 +23,10 @@
       }
     },
 
+    "ReplicatedFirst": {
+      "$path": "src/replicatedfirst"
+    },
+    
     "Workspace": {
       "$properties": {
         "StreamingEnabled": true
