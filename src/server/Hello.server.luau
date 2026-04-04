@@ -13,6 +13,5 @@ local function changeBrickMaterial()
     Part.Material = Enum.Material.Grass
 end
 
--- Call the functions to change the brick's color and material
 changeBrickColor()
 changeBrickMaterial()
