@@ -13,6 +13,6 @@ local function changeBrickMaterial()
     Part.Material = Enum.Material.Grass
 end
 
--- just practicing calling functions in the server script
+
 changeBrickColor()
 changeBrickMaterial()
